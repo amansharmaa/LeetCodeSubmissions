@@ -1,5 +1,5 @@
 using namespace std;
-#define MAX 99000
+#define MAX 10000
 class Stack {
 	int top;
 public:
