@@ -16,7 +16,7 @@ public:
             else{
                 profit += diff;
                point1 += 1;
-                point2 = point1 + 1;
+                point2 = point1 +1;
              
             }
         }
